@@ -1,0 +1,27 @@
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.deps.json
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.runtimeconfig.json
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.runtimeconfig.dev.json
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.dll
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.csprojResolveAssemblyReference.cache
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.csproj.CoreCompileInputs.cache
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.AssemblyInfoInputs.cache
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.AssemblyInfo.cs
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.pdb
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.dll
+C:\_aspcore_fev_2018\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.pdb
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.deps.json
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.runtimeconfig.json
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.runtimeconfig.dev.json
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.dll
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\AspCore_Email.pdb
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.csproj.AssemblyReference.cache
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.AssemblyInfoInputs.cache
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.AssemblyInfo.cs
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.dll
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.pdb
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\obj\Debug\netcoreapp2.0\AspCore_Email.genruntimeconfig.cache
+C:\Users\Elias\Desktop\envioEmail\exemplo netCore\AspCore_Email\AspCore_Email\bin\Debug\netcoreapp2.0\appsettings.json
